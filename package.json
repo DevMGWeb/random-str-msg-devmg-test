@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-devmg-test",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevMGWeb/random-str-msg-devmg-test.git"
+  },
+  "keywords": [],
+  "author": "Miguel Gonzalez <gonzalezcuevasmiguelignacio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevMGWeb/random-str-msg-devmg-test.git/issues"
+  },
+  "homepage": "https://github.com/DevMGWeb/random-str-msg-devmg-test.git#readme", 
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
